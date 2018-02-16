@@ -1,0 +1,170 @@
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.dll.config
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.pdb
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\Antlr3.Runtime.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\Microsoft.Web.Infrastructure.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\Newtonsoft.Json.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.Helpers.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.Mvc.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.Optimization.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.Razor.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Deployment.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Razor.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\WebGrease.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.Helpers.xml
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.Mvc.xml
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.Optimization.xml
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.Razor.xml
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.xml
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Deployment.xml
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Razor.xml
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\Antlr3.Runtime.pdb
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\Newtonsoft.Json.xml
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.pdb
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\EntityFramework.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\EntityFramework.SqlServer.dll
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\EntityFramework.xml
+c:\users\irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Irakli\Documents\Visual Studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\PagedList.dll
+C:\Users\Irakli\Documents\Visual Studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\PagedList.Mvc.dll
+C:\Users\Irakli\Documents\Visual Studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\PagedList.xml
+C:\Users\Irakli\Documents\Visual Studio 2013\Projects\Univerisity_Project\Univerisity_Project\bin\PagedList.Mvc.xml
+C:\Users\Irakli\documents\visual studio 2013\Projects\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.csprojResolveAssemblyReference.cache
+I:\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.dll.config
+I:\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.dll
+I:\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.pdb
+I:\Univerisity_Project\Univerisity_Project\bin\Antlr3.Runtime.dll
+I:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.dll
+I:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.SqlServer.dll
+I:\Univerisity_Project\Univerisity_Project\bin\Microsoft.Web.Infrastructure.dll
+I:\Univerisity_Project\Univerisity_Project\bin\Newtonsoft.Json.dll
+I:\Univerisity_Project\Univerisity_Project\bin\PagedList.dll
+I:\Univerisity_Project\Univerisity_Project\bin\PagedList.Mvc.dll
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.Helpers.dll
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.Mvc.dll
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.Optimization.dll
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.Razor.dll
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Deployment.dll
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.dll
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Razor.dll
+I:\Univerisity_Project\Univerisity_Project\bin\WebGrease.dll
+I:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.xml
+I:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.SqlServer.xml
+I:\Univerisity_Project\Univerisity_Project\bin\PagedList.xml
+I:\Univerisity_Project\Univerisity_Project\bin\PagedList.Mvc.xml
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.Helpers.xml
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.Mvc.xml
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.Optimization.xml
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.Razor.xml
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.xml
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Deployment.xml
+I:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Razor.xml
+I:\Univerisity_Project\Univerisity_Project\bin\Antlr3.Runtime.pdb
+I:\Univerisity_Project\Univerisity_Project\bin\Newtonsoft.Json.xml
+I:\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.csprojResolveAssemblyReference.cache
+I:\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.dll
+I:\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.pdb
+G:\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.dll.config
+G:\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.dll
+G:\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.pdb
+G:\Univerisity_Project\Univerisity_Project\bin\Antlr3.Runtime.dll
+G:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.dll
+G:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.SqlServer.dll
+G:\Univerisity_Project\Univerisity_Project\bin\Microsoft.Web.Infrastructure.dll
+G:\Univerisity_Project\Univerisity_Project\bin\Newtonsoft.Json.dll
+G:\Univerisity_Project\Univerisity_Project\bin\PagedList.dll
+G:\Univerisity_Project\Univerisity_Project\bin\PagedList.Mvc.dll
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.Helpers.dll
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.Mvc.dll
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.Optimization.dll
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.Razor.dll
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Deployment.dll
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.dll
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Razor.dll
+G:\Univerisity_Project\Univerisity_Project\bin\WebGrease.dll
+G:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.xml
+G:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.SqlServer.xml
+G:\Univerisity_Project\Univerisity_Project\bin\PagedList.xml
+G:\Univerisity_Project\Univerisity_Project\bin\PagedList.Mvc.xml
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.Helpers.xml
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.Mvc.xml
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.Optimization.xml
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.Razor.xml
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.xml
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Deployment.xml
+G:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Razor.xml
+G:\Univerisity_Project\Univerisity_Project\bin\Antlr3.Runtime.pdb
+G:\Univerisity_Project\Univerisity_Project\bin\Newtonsoft.Json.xml
+G:\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.csprojResolveAssemblyReference.cache
+G:\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.dll
+G:\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.pdb
+F:\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.dll.config
+F:\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.dll
+F:\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.pdb
+F:\Univerisity_Project\Univerisity_Project\bin\Antlr3.Runtime.dll
+F:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.dll
+F:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.SqlServer.dll
+F:\Univerisity_Project\Univerisity_Project\bin\Microsoft.Web.Infrastructure.dll
+F:\Univerisity_Project\Univerisity_Project\bin\Newtonsoft.Json.dll
+F:\Univerisity_Project\Univerisity_Project\bin\PagedList.dll
+F:\Univerisity_Project\Univerisity_Project\bin\PagedList.Mvc.dll
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.Helpers.dll
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.Mvc.dll
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.Optimization.dll
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.Razor.dll
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Deployment.dll
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.dll
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Razor.dll
+F:\Univerisity_Project\Univerisity_Project\bin\WebGrease.dll
+F:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.xml
+F:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.SqlServer.xml
+F:\Univerisity_Project\Univerisity_Project\bin\PagedList.xml
+F:\Univerisity_Project\Univerisity_Project\bin\PagedList.Mvc.xml
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.Helpers.xml
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.Mvc.xml
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.Optimization.xml
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.Razor.xml
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.xml
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Deployment.xml
+F:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Razor.xml
+F:\Univerisity_Project\Univerisity_Project\bin\Antlr3.Runtime.pdb
+F:\Univerisity_Project\Univerisity_Project\bin\Newtonsoft.Json.xml
+F:\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.csprojResolveAssemblyReference.cache
+F:\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.dll
+F:\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.pdb
+E:\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.dll.config
+E:\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.dll
+E:\Univerisity_Project\Univerisity_Project\bin\Univerisity_Project.pdb
+E:\Univerisity_Project\Univerisity_Project\bin\Antlr3.Runtime.dll
+E:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.dll
+E:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.SqlServer.dll
+E:\Univerisity_Project\Univerisity_Project\bin\Microsoft.Web.Infrastructure.dll
+E:\Univerisity_Project\Univerisity_Project\bin\Newtonsoft.Json.dll
+E:\Univerisity_Project\Univerisity_Project\bin\PagedList.dll
+E:\Univerisity_Project\Univerisity_Project\bin\PagedList.Mvc.dll
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.Helpers.dll
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.Mvc.dll
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.Optimization.dll
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.Razor.dll
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Deployment.dll
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.dll
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Razor.dll
+E:\Univerisity_Project\Univerisity_Project\bin\WebGrease.dll
+E:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.xml
+E:\Univerisity_Project\Univerisity_Project\bin\EntityFramework.SqlServer.xml
+E:\Univerisity_Project\Univerisity_Project\bin\PagedList.xml
+E:\Univerisity_Project\Univerisity_Project\bin\PagedList.Mvc.xml
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.Helpers.xml
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.Mvc.xml
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.Optimization.xml
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.Razor.xml
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.xml
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Deployment.xml
+E:\Univerisity_Project\Univerisity_Project\bin\System.Web.WebPages.Razor.xml
+E:\Univerisity_Project\Univerisity_Project\bin\Antlr3.Runtime.pdb
+E:\Univerisity_Project\Univerisity_Project\bin\Newtonsoft.Json.xml
+E:\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.csprojResolveAssemblyReference.cache
+E:\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.dll
+E:\Univerisity_Project\Univerisity_Project\obj\Debug\Univerisity_Project.pdb
